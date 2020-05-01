@@ -1,3 +1,3 @@
 # Basic-Rich-Text-Editor
 
-Using JavaScript, CSS, HTML
+Basic Rich Text Editor
